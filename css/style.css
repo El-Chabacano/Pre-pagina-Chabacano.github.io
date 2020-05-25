@@ -1,0 +1,151 @@
+@charset "UTF-8";
+
+.header{
+	background: grey;
+	color: white;
+	height:670px;
+	
+}
+
+.amarillo{
+	background: #E6A135;
+	
+}
+
+.rojo{
+	background: #731516;
+	padding-top: 200px;
+	font-size: 64px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	
+}
+
+img{
+	width: 100%;
+}
+
+.voz{
+	
+	background:#14526d; 
+	height: 350px;
+	color: white;
+padding-top: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+	
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	font-size: 25px;
+	
+}
+
+.galeria div {
+	
+	background:#14526d; 
+	height: 350px;
+	padding-bottom: 50px;
+}
+	
+.parte2{
+	background:#9d9d9c; 
+	height: 250px;
+	color: white;
+padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	font-size: 25px;
+	
+}
+
+
+.galeria2{
+	background:#9d9d9c; 
+	height: 700px;
+	padding-top: 180px
+}
+
+
+.voces{
+	
+	background:#958C42; 
+	height: 240px;
+	color: white;
+padding: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	font-size: 25px;
+	
+}
+
+
+.headeres{
+	background: black;
+	height: 70px;
+	color: white;
+	
+padding-top: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	font-size: 25px;
+	
+}
+
+.galerialess div {
+	background:#958C42; 
+	height: 350px;
+	
+	
+}
+
+.vo{
+	
+	background:#e6a135; 
+	height: 320px;
+	color: white;
+padding: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	font-size: 25px;
+	
+}
+.cala div {
+	background:#e6a135; 
+	height: 450px;
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+.lol{
+	background: black;
+	height:180px;
+	color: white;
+	
+padding-top: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	font-size: 12px;
+	
+}
+
+.head{
+	background: black;
+	height:70px;
+	color: white;
+	
+padding-top: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-weight: 650;
+	font-size: 25px;
+	
+}
+
